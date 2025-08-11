@@ -12,3 +12,7 @@ This project implements an ANN model to classify iris flowers into three species
 - **Deployment:** Interactive Streamlit app allows users to input feature values via sliders and see prediction results along with probability distribution.
 
 ---
+
+## Deployment
+
+The app is deployed and can be accessed at: "https://ann-iris-multi-classclassification-beibfgbsgvdefn2ca9hw3x.streamlit.app/"
